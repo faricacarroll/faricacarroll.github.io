@@ -317,7 +317,7 @@ a {
         margin-top: 10%;
     }
     
-/* HOME SCREEN */
+/* PROJECT SCREEN */
     
     #project-summary {
         margin-top: 15%;
@@ -340,6 +340,22 @@ a {
         margin-top: -8%;
         width: 80vw; 
     }
+    
+/* ABOUT SCREEN */
+    
+.about {
+    background-image: url(images/about.JPG);
+    background-repeat: no-repeat;
+    background-size: 70vh;
+    background-position: right 0px;
+    background-color: #F2F6F8;
+    padding-top: 80%;
+}
+    
+.downarrow {
+        display: none;
+    }
+
     
 }
 
