@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>Farica Carroll</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="https://use.typekit.net/vka0tkg.css">
+
+
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="css/skeleton.css">
+  <link rel="stylesheet" href="main.css">
+    
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="images/favicon.ico">
+
+  <!-- jQuery hover effect
+  -------------------------------------------------- -->
+  <link rel="stylesheet" type="text/css" href="css/demo.css" />
+  <link rel="stylesheet" type="text/css" href="css/set1.css" />
+
+  <!-- Smooth scrolling effect
+  -------------------------------------------------- -->  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+
+
+<header id="myHeader">
+    <div class=container>
+       <a href="index.html"><img class="logo" src="images/f-logo.svg" data-pin-nopin="true"></a>
+        <ul>
+            <div class="dropdown">
+                <a href="index.html" class="drop-button"><li>Projects <img src="images/dropdown.svg" width="14px" style="padding:0 0 2px 6px"></li></a>
+                <div class="dropdown-content">
+                    <a href="polycare.html">Poly Care</a>
+                    <a href="zoomforth.html">Zoomforth</a>
+                    <a href="jupyter.html">Jupyter</a>
+                    <a href="graphicarts.html">Graphic Arts Map</a>
+                    <a href="localsown.html">LocalsOwn</a>
+                    <a href="theplace.html">The Place</a>
+                </div>
+            </div>
+            <a target="_blank" href=images/faricacarroll-resume.pdf><li>Resume</li></a>
+            <a href=about.html><li>About</li></a>
+        </ul>
+    </div>
+    
+</header>
+<body class="about">
+
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+
+<div class="container">
+    <div class="row">
+      <div class="nine columns" style="margin-top: 10%">
+        <h6>Hello there</h6>
+        <h1>I'm Farica,</h1>
+        <h1>like Erica with an &lsquo;F&rsquo;</h1>
+        <h5>I’m a user interface and user experience designer. My spectrum ranges from web design, app design, visual design, and more. I’m passionate about transforming digital design into an easy-to-use, delightful experience for every user.</h5>
+        
+      </div>
+    </div>
+    <div class="row">
+        <div class="six columns">
+            <a href="#about-more"><div class="downarrow">
+                <h7>Get to know me more</h7>
+                <img src="images/down-arrow.svg" width="7">
+        </div> </a>
+        </div>
+    </div>
+    <div class="row" id="about-more" style="margin-bottom: 5%">
+          <h5><br>I use my strengths of empathy and integrity to build strong, trusting relationships with the people around me. I thrive working in a team to create the most effective and compelling solution for users. I continually challenge myself to grow in my work, habits, and relationships to be the best version of myself and a positive force in the lives of others.</h5>
+        
+    </div>
+    <div class="row">
+        <p>I enjoy being active, eating healthily and trying new things. I have the type of laugh you can hear across the room and am often described by my friends as a bubbly person. My heart resides in the Bay where my family lives and I grew up, but I’ve made my journey south in California by enjoying four beautiful years in San Luis Obispo and then moving down to Los Angeles.</p>
+    </div>
+    <div class=download-resume>
+        <button>Download Resume</button>
+    </div>
+</div>
+
+<div class="container">
+    <div id="footer">
+        <p>	&#169; Farica Carroll 2018</p>
+    </div>
+</div>
+  
+
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+</html>
+
+
+
+<script>
+$(document).ready(function(){
+  // Add smooth scrolling to all links
+  $("a").on('click', function(event) {
+
+    // Make sure this.hash has a value before overriding default behavior
+    if (this.hash !== "") {
+      // Prevent default anchor click behavior
+      event.preventDefault();
+
+      // Store hash
+      var hash = this.hash;
+
+      // Using jQuery's animate() method to add smooth page scroll
+      // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 800, function(){
+   
+        // Add hash (#) to URL when done scrolling (default click behavior)
+        window.location.hash = hash;
+      });
+    } // End if
+  });
+});
+</script>

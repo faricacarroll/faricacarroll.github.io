@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="4184 737 352 352">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #d8d8d8;
+      }
+
+      .cls-2 {
+        fill: #4e4e4e;
+      }
+
+      .cls-3 {
+        fill: #767677;
+      }
+
+      .cls-4 {
+        fill: #f37726;
+      }
+
+      .cls-5 {
+        fill: #9e9e9e;
+      }
+
+      .cls-6 {
+        fill: #616262;
+      }
+
+      .cls-7 {
+        stroke: none;
+      }
+
+      .cls-8 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_13" data-name="Group 13" transform="translate(3677 -345)">
+    <g id="Rectangle_10" data-name="Rectangle 10" class="cls-1" transform="translate(507 1082)">
+      <rect class="cls-7" width="352" height="352"/>
+      <rect class="cls-8" x="0.5" y="0.5" width="351" height="351"/>
+    </g>
+    <g id="jupyter_logo" transform="translate(-1041.54 -1294.69)">
+      <g id="Group" transform="translate(1640.54 2453.69)">
+        <g id="Group-2" data-name="Group">
+          <g id="Group-3" data-name="Group" transform="translate(0 74.457)">
+            <g id="g">
+              <g id="path" transform="translate(0 7.189)">
+                <g id="path9_fill" data-name="path9 fill">
+                  <path id="Path_4" data-name="Path 4" class="cls-2" d="M6.893,21.627c0,6.154-.492,8.159-1.758,9.636A7.666,7.666,0,0,1,0,33.232l.492,3.517A12.027,12.027,0,0,0,8.51,33.83a14.066,14.066,0,0,0,2.621-4.96,14.066,14.066,0,0,0,.474-5.59V0H6.893V21.627Z"/>
+                </g>
+              </g>
+              <g id="path-2" data-name="path" transform="translate(20.303 7.229)">
+                <g id="path10_fill" data-name="path10 fill">
+                  <path id="Path_5" data-name="Path 5" class="cls-2" d="M21.733,18.814c0,2.637,0,4.994.211,7.033H17.759l-.281-4.185a9.741,9.741,0,0,1-8.545,4.783C4.853,26.445,0,24.23,0,15.192V.176H4.712V14.242c0,4.888,1.512,8.159,5.767,8.159a6.576,6.576,0,0,0,6.646-6.646V0h4.712V18.673Z"/>
+                </g>
+              </g>
+              <g id="path-3" data-name="path" transform="translate(50.757 6.794)">
+                <g id="path11_fill" data-name="path11 fill">
+                  <path id="Path_6" data-name="Path 6" class="cls-2" d="M.211,8.977c0-3.27,0-5.943-.211-8.37H4.22L4.431,5A10.2,10.2,0,0,1,13.645.009c6.26,0,10.972,5.24,10.972,13.047,0,9.214-5.662,13.785-11.781,13.785A9.108,9.108,0,0,1,4.853,22.8h0V36.864H.211V8.977Zm4.642,6.857a10.551,10.551,0,0,0,.211,1.9A7.244,7.244,0,0,0,12.1,23.184c4.958,0,7.877-4.044,7.877-9.917,0-5.134-2.743-9.53-7.7-9.53a8.088,8.088,0,0,0-7.42,7.7Z" transform="translate(0 0)"/>
+                </g>
+              </g>
+              <g id="path-4" data-name="path" transform="translate(78.565 7.307)">
+                <g id="path12_fill" data-name="path12 fill">
+                  <path id="Path_7" data-name="Path 7" class="cls-2" d="M5.2.07l5.662,15.157c.6,1.688,1.231,3.728,1.653,5.24.492-1.547,1.02-3.517,1.653-5.345L19.306.07h4.958L17.232,18.357c-3.517,8.792-5.662,13.328-8.9,16.071a12.8,12.8,0,0,1-5.767,3.024l-1.16-3.939a12.485,12.485,0,0,0,4.114-2.286,14.067,14.067,0,0,0,3.974-5.2A3.516,3.516,0,0,0,9.882,24.9a4.045,4.045,0,0,0-.316-1.231L0,0H5.134Z"/>
+                </g>
+              </g>
+              <g id="path-5" data-name="path" transform="translate(106.688)">
+                <g id="path13_fill" data-name="path13 fill">
+                  <path id="Path_8" data-name="Path 8" class="cls-2" d="M8.651,0V7.385H15.4V10.9H8.651V24.757c0,3.165.914,4.994,3.517,4.994a10.551,10.551,0,0,0,2.743-.316l.211,3.517a11.606,11.606,0,0,1-4.185.633,6.541,6.541,0,0,1-5.1-1.969,9.46,9.46,0,0,1-1.829-6.682V10.866H0V7.35H4.079V1.09Z"/>
+                </g>
+              </g>
+              <g id="path-6" data-name="path" transform="translate(126.122 6.912)">
+                <g id="path14_fill" data-name="path14 fill">
+                  <path id="Path_9" data-name="Path 9" class="cls-2" d="M4.65,14.137a8.264,8.264,0,0,0,8.9,8.9A17.161,17.161,0,0,0,20.58,21.7l.809,3.517A21.1,21.1,0,0,1,12.773,26.8,11.957,11.957,0,0,1,.043,13.856C.043,6.119,4.65,0,12.175,0c8.44,0,10.55,7.385,10.55,12.1a17.581,17.581,0,0,1,0,2.18H4.544ZM18.435,10.62a6.646,6.646,0,0,0-6.541-7.6,7.772,7.772,0,0,0-7.209,7.6Z"/>
+                </g>
+              </g>
+              <g id="path-7" data-name="path" transform="translate(155.786 6.715)">
+                <g id="path15_fill" data-name="path15 fill">
+                  <path id="Path_10" data-name="Path 10" class="cls-2" d="M.211,8.659c0-3.024,0-5.627-.211-8.018H4.22V5.67h.211A7.772,7.772,0,0,1,11.464.044a5.134,5.134,0,0,1,1.336,0v4.4a7.029,7.029,0,0,0-1.618,0,6.576,6.576,0,0,0-6.295,5.978,13.008,13.008,0,0,0-.211,2.18v13.68H.035V8.695Z" transform="translate(0 0)"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="g-2" data-name="g" transform="translate(5.253)">
+            <g id="path-8" data-name="path" transform="translate(124.858)">
+              <g id="path16_fill" data-name="path16 fill">
+                <path id="Path_11" data-name="Path 11" class="cls-3" d="M23.821,11.2A11.921,11.921,0,1,1,11.407.018,11.781,11.781,0,0,1,23.821,11.2Z" transform="translate(0 0)"/>
+              </g>
+            </g>
+            <g id="path-9" data-name="path" transform="translate(5.293 120.79)">
+              <g id="path17_fill" data-name="path17 fill">
+                <path id="Path_12" data-name="Path 12" class="cls-4" d="M73.849,28.133C42.2,28.133,14.383,16.774,0,0A78.738,78.738,0,0,0,28.854,37.3a78.737,78.737,0,0,0,45,14.123,78.738,78.738,0,0,0,45-14.123A78.74,78.74,0,0,0,147.7,0C133.351,16.774,105.64,28.133,73.849,28.133Z"/>
+              </g>
+            </g>
+            <g id="path-10" data-name="path" transform="translate(5.293 16.55)">
+              <g id="path18_fill" data-name="path18 fill">
+                <path id="Path_13" data-name="Path 13" class="cls-4" d="M73.849,23.294c31.65,0,59.467,11.359,73.85,28.133a78.738,78.738,0,0,0-147.7,0C14.383,34.618,42.059,23.294,73.849,23.294Z"/>
+              </g>
+            </g>
+            <g id="path-11" data-name="path" transform="translate(5.57 167.479)">
+              <g id="path19_fill" data-name="path19 fill">
+                <path id="Path_14" data-name="Path 14" class="cls-5" d="M30,14.088A14.876,14.876,0,1,1,28.57,8.462,15.016,15.016,0,0,1,30,14.088Z" transform="translate(0 0)"/>
+              </g>
+            </g>
+            <g id="path-12" data-name="path" transform="translate(0 18.723)">
+              <g id="path20_fill" data-name="path20 fill">
+                <path id="Path_15" data-name="Path 15" class="cls-6" d="M8.89,17.3a8.651,8.651,0,1,1,8.4-9,8.756,8.756,0,0,1-8.4,9Z" transform="translate(0 0)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

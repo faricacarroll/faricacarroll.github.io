@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>Farica Carroll</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="https://use.typekit.net/vka0tkg.css">
+
+
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="css/skeleton.css">
+  <link rel="stylesheet" href="main.css">
+    
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+   <link rel="icon" type="image/png" href="images/favicon.ico">
+
+  <!-- jQuery hover effect
+  -------------------------------------------------- -->
+  <link rel="stylesheet" type="text/css" href="css/demo.css" />
+  <link rel="stylesheet" type="text/css" href="css/set1.css" />
+    
+  <!-- Smooth scrolling effect
+  -------------------------------------------------- -->  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+
+
+<header id="myHeader">
+    <div class=container>
+        <a href="index.html"><img class="logo" src="images/f-logo.svg" data-pin-nopin="true"></a>
+        <ul>
+            <a href=#secondSection><li>Projects</li></a>
+            <a target="_blank" href=images/faricacarroll-resume.pdf><li>Resume</li></a>
+            <a href=about.html><li>About</li></a>
+        </ul>
+    </div>
+    
+</header>
+<body>
+
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+<div id="bg-color">
+
+<div class="container" id="firstSection">
+    <div class="row">
+      <div class="nine columns" style="margin-top: 10%">
+        <h6>UI/UX Designer</h6>
+        <h1>Farica Carroll</h1>
+        <h4>I produce digital narratives, products, and other experiences through my passion of learning people’s stories and intertwining them with a human-centered design approach.</h4>
+      </div>
+    </div>
+</div>
+</div>
+<div class="container" id="secondSection">
+    <div class="row" style="padding-top:10%">
+      <h4 style="margin-bottom:3%">Here's what I've been working on lately.</h4>
+      <div class="project_thumbnails">
+       <a href=polycare.html>
+        <div class="grid">
+        <figure class="effect-bubba"> 
+          <img src="images/polycare_thumbnail.svg">
+           <figcaption>
+            <p>Mobile App Design</p>
+            <p>UI/UX Design and Usability Testing</p>
+            </figcaption>
+          </figure>
+        </div>
+        </a>
+        <a href="zoomforth.html">
+        <div class="grid">
+        <figure class="effect-bubba"> 
+          <img src="images/zoomforth_thumbnail.svg">
+           <figcaption>
+            <p>Web Application Design</p>
+            <p>UI/UX design and Visual Design</p>
+            </figcaption>
+          </figure>
+        </div>
+        </a>
+        <a href="jupyter.html">
+        <div class="grid">
+        <figure class="effect-bubba"> 
+          <img src="images/jupyter_thumbnail.svg">
+           <figcaption>
+            <p>Web Application Design</p>
+            <p>UI/UX design and branding</p>
+            </figcaption>
+          </figure>
+        </div>
+        </a>
+        <a href="graphicarts.html">
+        <div class="grid">
+        <figure class="effect-bubba"> 
+          <img src="images/graphicarts_thumbnail.svg">
+           <figcaption>
+            <p>Map Design</p>
+            <p>UX and Visual Design</p>
+            </figcaption>
+          </figure>
+        </div>
+        </a>
+        <a href="localsown.html">
+        <div class="grid">
+        <figure class="effect-bubba"> 
+          <img src="images/localsown_thumbnail.svg">
+           <figcaption>
+            <p>Website Design</p>
+            <p>Visual design and front-end development</p>
+            </figcaption>
+          </figure>
+        </div>
+        </a>
+        <a href="theplace.html">
+        <div class="grid">
+        <figure class="effect-bubba"> 
+          <img src="images/theplace_thumbnail.svg">
+           <figcaption>
+            <p>Website Design</p>
+            <p>Visual design and front-end development</p>
+            </figcaption>
+          </figure>
+        </div>
+        </a>  
+      </div>
+    </div>
+</div>
+<div class="container">
+    <div id="footer">
+        <p>	&#169; Farica Carroll 2018</p>
+    </div>
+</div>
+  
+
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+</html>
+
+
+<script>
+$(document).ready(function(){
+  // Add smooth scrolling to all links
+  $("a").on('click', function(event) {
+
+    // Make sure this.hash has a value before overriding default behavior
+    if (this.hash !== "") {
+      // Prevent default anchor click behavior
+      event.preventDefault();
+
+      // Store hash
+      var hash = this.hash;
+
+      // Using jQuery's animate() method to add smooth page scroll
+      // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 800, function(){
+   
+        // Add hash (#) to URL when done scrolling (default click behavior)
+        window.location.hash = hash;
+      });
+    } // End if
+  });
+});
+</script>

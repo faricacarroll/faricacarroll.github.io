@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="4998.099 6752.481 26.209 8.667">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #575757;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #575757;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="left_arrow" data-name="left arrow" transform="translate(4855 1490)">
+    <path id="Path_34" data-name="Path 34" class="cls-1" d="M0,0H6.65L3.383,4.373Z" transform="translate(148.297 5263.5) rotate(90)"/>
+    <g id="Rectangle_39" data-name="Rectangle 39" class="cls-2" transform="translate(147.421 5266.027)">
+      <rect class="cls-3" width="21.886" height="1.685"/>
+      <rect class="cls-4" x="0.5" y="0.5" width="20.886" height="0.685"/>
+    </g>
+  </g>
+</svg>
