@@ -282,11 +282,21 @@ button img {
 
 .downarrow {
     width: 16rem;
-    margin: 25% auto;
+    margin: 10% auto;
 }
 .downarrow img{
     display: block;
     margin: 8px auto;
+}
+
+.icons ul li {
+    display: inline-block;
+    margin: 0px 20px 0px 0px ;
+    font-size: 24px;
+}
+
+.icons a {
+    color: #575757;
 }
 
 a {
@@ -352,7 +362,7 @@ a {
     padding-top: 80%;
 }
     
-.downarrow {
+    .downarrow {
         display: none;
     }
 
